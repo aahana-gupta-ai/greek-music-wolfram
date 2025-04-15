@@ -1,0 +1,31 @@
+{
+  "id": "pythagorean-diatonic-f",
+  "title": "Pythagorean diatonic · F4",
+  "system": "pythagorean-diatonic",
+  "system_title": "Pythagorean diatonic",
+  "root_note": "F4",
+  "root_hz": 349.228231433004,
+  "ratios": [
+    "1",
+    "9/8",
+    "81/64",
+    "4/3",
+    "3/2",
+    "27/16",
+    "243/128",
+    "2"
+  ],
+  "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+  ],
+  "reference": "A4 = 440 Hz; root transposition uses equal temperament",
+  "historical_claim": "Illustrative mathematical model, not a documented reconstruction of a particular ancient performance",
+  "source": "New demonstration configuration"
+}
