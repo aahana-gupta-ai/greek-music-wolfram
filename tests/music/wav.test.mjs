@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {encodeWAV} from '../../src/music/wav.js';
+test('wav.js: mathematical and format checks',()=>{const bytes=encodeWAV(new Float32Array([0,1,-1]),8000),view=new DataView(bytes);assert.equal(bytes.byteLength,50);assert.equal(view.getUint32(24,true),8000);assert.equal(view.getInt16(46,true),32767);assert.equal(view.getInt16(48,true),-32768);});
