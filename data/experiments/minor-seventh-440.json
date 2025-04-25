@@ -1,0 +1,8 @@
+{
+  "id": "minor-seventh-440",
+  "title": "Minor Seventh at 440 Hz",
+  "ratio": "9/5",
+  "root_hz": 440,
+  "equal_semitones": 10,
+  "source": "New mathematical comparison experiment"
+}
