@@ -1,0 +1,31 @@
+{
+  "id": "just-minor-f",
+  "title": "Just minor · F4",
+  "system": "just-minor",
+  "system_title": "Just minor",
+  "root_note": "F4",
+  "root_hz": 349.228231433004,
+  "ratios": [
+    "1",
+    "9/8",
+    "6/5",
+    "4/3",
+    "3/2",
+    "8/5",
+    "9/5",
+    "2"
+  ],
+  "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+  ],
+  "reference": "A4 = 440 Hz; root transposition uses equal temperament",
+  "historical_claim": "Illustrative mathematical model, not a documented reconstruction of a particular ancient performance",
+  "source": "New demonstration configuration"
+}
