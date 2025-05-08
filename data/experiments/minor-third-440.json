@@ -1,0 +1,8 @@
+{
+  "id": "minor-third-440",
+  "title": "Minor Third at 440 Hz",
+  "ratio": "6/5",
+  "root_hz": 440,
+  "equal_semitones": 3,
+  "source": "New mathematical comparison experiment"
+}
