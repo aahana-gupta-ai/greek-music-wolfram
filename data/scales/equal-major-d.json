@@ -1,0 +1,31 @@
+{
+  "id": "equal-major-d",
+  "title": "Equal-tempered major · D4",
+  "system": "equal-major",
+  "system_title": "Equal-tempered major",
+  "root_note": "D4",
+  "root_hz": 293.664767917408,
+  "ratios": [
+    1.0,
+    1.122462048309373,
+    1.2599210498948732,
+    1.3348398541700344,
+    1.4983070768766815,
+    1.681792830507429,
+    1.8877486253633868,
+    2.0
+  ],
+  "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+  ],
+  "reference": "A4 = 440 Hz; root transposition uses equal temperament",
+  "historical_claim": "Illustrative mathematical model, not a documented reconstruction of a particular ancient performance",
+  "source": "New demonstration configuration"
+}
