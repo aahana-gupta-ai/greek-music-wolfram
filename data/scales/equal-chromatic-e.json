@@ -1,0 +1,41 @@
+{
+  "id": "equal-chromatic-e",
+  "title": "Equal-tempered chromatic · E4",
+  "system": "equal-chromatic",
+  "system_title": "Equal-tempered chromatic",
+  "root_note": "E4",
+  "root_hz": 329.62755691287,
+  "ratios": [
+    1.0,
+    1.0594630943592953,
+    1.122462048309373,
+    1.189207115002721,
+    1.2599210498948732,
+    1.3348398541700344,
+    1.4142135623730951,
+    1.4983070768766815,
+    1.5874010519681994,
+    1.681792830507429,
+    1.7817974362806785,
+    1.8877486253633868,
+    2.0
+  ],
+  "semitones": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "reference": "A4 = 440 Hz; root transposition uses equal temperament",
+  "historical_claim": "Illustrative mathematical model, not a documented reconstruction of a particular ancient performance",
+  "source": "New demonstration configuration"
+}
