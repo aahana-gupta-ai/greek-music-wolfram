@@ -1,0 +1,31 @@
+{
+  "id": "equal-minor-a",
+  "title": "Equal-tempered natural minor · A4",
+  "system": "equal-minor",
+  "system_title": "Equal-tempered natural minor",
+  "root_note": "A4",
+  "root_hz": 440,
+  "ratios": [
+    1.0,
+    1.122462048309373,
+    1.189207115002721,
+    1.3348398541700344,
+    1.4983070768766815,
+    1.5874010519681994,
+    1.7817974362806785,
+    2.0
+  ],
+  "semitones": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+  ],
+  "reference": "A4 = 440 Hz; root transposition uses equal temperament",
+  "historical_claim": "Illustrative mathematical model, not a documented reconstruction of a particular ancient performance",
+  "source": "New demonstration configuration"
+}
