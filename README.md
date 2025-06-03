@@ -1,53 +1,46 @@
-# Aahana Gupta
+# Ancient Greek Musical Systems
 
-**Student researcher and project founder exploring cognition, language, AI, and accessible technology.**
+Explore tuning ratios through computation and sound.
 
-I build tools that connect research with practical support for memory, care, and learning. My central question is how technology can better account for the languages, cultures, and everyday experiences of the people who use it.
+**Package status:** runnable portfolio starter. Only the ADAS-Cog repository also contains supplied original web source in `legacy/`. Other project production code was not supplied. Newly generated code must not be represented as the original implementation.
 
-I am an A-level student at **Cardiff Sixth Form College, Class of 2027**, studying Biology, Mathematics, Psychology, and Chemistry. My academic interests lie in **Cognitive Science and Symbolic Systems**, particularly the relationship between language, human cognition, data, and artificial intelligence.
+## What works in this starter
 
-## Research
+- Forty-eight scale configurations and twenty-four interval experiments.
+- Frequency and cents calculations, browser synthesis, and WAV export.
+- Ten new Wolfram source files; these require a separately installed Wolfram runtime.
 
-My research investigates language and cultural factors in dementia assessment using the Alzheimer's Disease Assessment Scale–Cognitive Subscale (ADAS-Cog).
+## Run
 
-- **Published research:** A study of ADAS-Cog performance in urban Indian Alzheimer's patients, with Dr. Praveen Gupta, published in *Bioinformation*.
-- **Follow-up study:** A 120-patient investigation with Prof. Vijay Kumar Chattu, with a manuscript under review at the *Journal of Clinical Neuroscience*.
-- **Research translation:** Multilingual assessment tools, familiar-voice dementia support, and accessible literacy programmes.
+```bash
+python3 scripts/serve.py
+```
 
-## Project portfolio
+Open http://127.0.0.1:8000. Use the bundled example content. No dependency install or account is required.
 
-| Project | Repository name | Purpose |
-| --- | --- | --- |
-| **Multilingual ADAS-Cog App** | `multilingual-adas-cog-app` | Explore culturally adapted, multilingual cognitive-assessment workflows. The available source package contains the ADAS-Cog India web prototype. |
-| **SmritiCare** | `smriticare` | Support families living with dementia through familiar family voices, voice-cloning technology, and WhatsApp-based interaction. |
-| **Sahitya** | `sahitya-phonics` | Deliver structured phonics lessons and dyslexia-screening support through WhatsApp, working with educators and community partners. |
-| **Ancient Greek Musical Systems** | `greek-music-wolfram` | Model ancient Greek tuning systems and frequency ratios in Wolfram Language, connecting mathematics, music, and computational exploration. |
-| **Cultural Bias in Dementia Assessment** — planned repository | `dementia-assessment-research` | Organise research documentation and develop reproducible analysis examples using synthetic or appropriately approved data. This repository is a proposed addition to the portfolio. |
+## Verify
 
-### Repository topics
+```bash
+node --test
+node scripts/verify.mjs
+```
 
-| Repository | Topics |
-| --- | --- |
-| `multilingual-adas-cog-app` | `data-science` `healthcare` `dementia` `multilingual` `research` |
-| `smriticare` | `artificial-intelligence` `voice-cloning` `healthcare` `dementia` `whatsapp` |
-| `sahitya-phonics` | `web-development` `education` `literacy` `dyslexia` `whatsapp` |
-| `greek-music-wolfram` | `wolfram-language` `computational-music` `data-science` `music-theory` |
-| `dementia-assessment-research` — proposed | `data-science` `healthcare` `dementia` `cognitive-science` `research` |
+## Contents
 
-## How I build
+- `src/`: functioning browser application and reusable helpers.
+- `data/`: indexed demonstration resources.
+- `tests/`: behavior and data-integrity tests.
+- `docs/`: architecture, provenance, integration limits, and workflow guides.
+- `schemas/` and `examples/`: documented export formats.
 
-I begin with a research question or a practical need, design the workflow, and evaluate it with the people it is intended to support. I write Wolfram Language code directly and use AI-assisted development tools for application projects.
+Every project is packaged with exactly **160 files**, including code, resources, tests, and documentation; file count is not a measure of research quality.
 
-**Tools used across my projects:** Wolfram Language, Claude Code, Manus, ElevenLabs, and WhatsApp.
+## Topics
 
-My project documentation distinguishes my research, design, and implementation work from assistance provided by AI tools and collaborators.
+`wolfram-language` `computational-music` `data-science` `music-theory`
 
-## Beyond code
+Set these through GitHub's About settings.
 
-- Co-author of ***The Wrong Words***, with Dr. Deepak Rathod, exploring cultural context in diagnostic assessment.
-- Founder of **Sahitya**, combining literacy education, technology, and community partnerships.
-- **Technovation Girls Global Semifinalist** and **Wolfram Summer Research Program Staff Pick**.
-- President of the **Psychology Club** and founder of the college's first **International Youth Neuroscience Association chapter**.
-- Musician with training in piano and vocals, bringing an interest in sound and mathematical structure to my computational work.
+## Attribution and rights
 
-My long-term interest is in building systems that understand people more carefully and make research useful beyond the laboratory.
+Project identity and background come from the uploaded Aahana Gupta descriptions. Starter code and new example content were generated for this bundle. No new open-source license is assigned. Review `NOTICE.md` and `docs/PROVENANCE.md` before public distribution.
