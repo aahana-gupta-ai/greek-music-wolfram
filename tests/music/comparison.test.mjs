@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {compareScale} from '../../src/music/comparison.js';
+test('comparison.js: mathematical and format checks',()=>{const rows=compareScale({root_hz:440,ratios:['1','3/2'],semitones:[0,7]});assert.ok(Math.abs(rows[1].cents_difference-1.955000865)<1e-6);assert.throws(()=>compareScale({root_hz:440,ratios:['1'],semitones:[]}));});
