@@ -1,0 +1,14 @@
+{
+  "id": "greek-music-wolfram",
+  "title": "Ancient Greek Musical Systems",
+  "mode": "local-demo",
+  "external_services": false,
+  "expected_files": 160,
+  "original_source_included": false,
+  "topics": [
+    "wolfram-language",
+    "computational-music",
+    "data-science",
+    "music-theory"
+  ]
+}
