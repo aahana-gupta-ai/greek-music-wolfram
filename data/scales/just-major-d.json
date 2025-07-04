@@ -1,0 +1,31 @@
+{
+  "id": "just-major-d",
+  "title": "Just major · D4",
+  "system": "just-major",
+  "system_title": "Just major",
+  "root_note": "D4",
+  "root_hz": 293.664767917408,
+  "ratios": [
+    "1",
+    "9/8",
+    "5/4",
+    "4/3",
+    "3/2",
+    "5/3",
+    "15/8",
+    "2"
+  ],
+  "semitones": [
+    0,
+    2,
+    4,
+    5,
+    7,
+    9,
+    11,
+    12
+  ],
+  "reference": "A4 = 440 Hz; root transposition uses equal temperament",
+  "historical_claim": "Illustrative mathematical model, not a documented reconstruction of a particular ancient performance",
+  "source": "New demonstration configuration"
+}
