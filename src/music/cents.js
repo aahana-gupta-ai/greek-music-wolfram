@@ -1,0 +1,1 @@
+import {ratioValue} from './ratios.js';export function cents(ratio){return 1200*Math.log2(ratioValue(ratio));}export function centsBetween(a,b){if(a<=0||b<=0||!Number.isFinite(a)||!Number.isFinite(b))throw new Error('Positive frequencies required');return 1200*Math.log2(a/b);}
