@@ -1,0 +1,8 @@
+{
+  "id": "tritone-440",
+  "title": "Tritone at 440 Hz",
+  "ratio": "45/32",
+  "root_hz": 440,
+  "equal_semitones": 6,
+  "source": "New mathematical comparison experiment"
+}
