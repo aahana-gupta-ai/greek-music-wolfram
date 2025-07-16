@@ -1,0 +1,8 @@
+{
+  "id": "major-third-440",
+  "title": "Major Third at 440 Hz",
+  "ratio": "5/4",
+  "root_hz": 440,
+  "equal_semitones": 4,
+  "source": "New mathematical comparison experiment"
+}
