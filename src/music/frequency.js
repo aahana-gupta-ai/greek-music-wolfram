@@ -1,0 +1,1 @@
+import {ratioValue} from './ratios.js';export function frequency(root,ratio){if(!Number.isFinite(root)||root<=0)throw new Error('Positive root frequency required');return root*ratioValue(ratio);}export function frequencies(root,ratios){return ratios.map(r=>frequency(root,r));}
