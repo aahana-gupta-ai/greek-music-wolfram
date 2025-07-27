@@ -1,0 +1,533 @@
+{
+  "project": "greek-music-wolfram",
+  "items": [
+    {
+      "id": "pythagorean-diatonic-c",
+      "title": "Pythagorean diatonic · C4",
+      "path": "data/scales/pythagorean-diatonic-c.json",
+      "kind": "scale",
+      "system": "pythagorean-diatonic",
+      "root_note": "C4"
+    },
+    {
+      "id": "pythagorean-diatonic-d",
+      "title": "Pythagorean diatonic · D4",
+      "path": "data/scales/pythagorean-diatonic-d.json",
+      "kind": "scale",
+      "system": "pythagorean-diatonic",
+      "root_note": "D4"
+    },
+    {
+      "id": "pythagorean-diatonic-e",
+      "title": "Pythagorean diatonic · E4",
+      "path": "data/scales/pythagorean-diatonic-e.json",
+      "kind": "scale",
+      "system": "pythagorean-diatonic",
+      "root_note": "E4"
+    },
+    {
+      "id": "pythagorean-diatonic-f",
+      "title": "Pythagorean diatonic · F4",
+      "path": "data/scales/pythagorean-diatonic-f.json",
+      "kind": "scale",
+      "system": "pythagorean-diatonic",
+      "root_note": "F4"
+    },
+    {
+      "id": "pythagorean-diatonic-g",
+      "title": "Pythagorean diatonic · G4",
+      "path": "data/scales/pythagorean-diatonic-g.json",
+      "kind": "scale",
+      "system": "pythagorean-diatonic",
+      "root_note": "G4"
+    },
+    {
+      "id": "pythagorean-diatonic-a",
+      "title": "Pythagorean diatonic · A4",
+      "path": "data/scales/pythagorean-diatonic-a.json",
+      "kind": "scale",
+      "system": "pythagorean-diatonic",
+      "root_note": "A4"
+    },
+    {
+      "id": "just-major-c",
+      "title": "Just major · C4",
+      "path": "data/scales/just-major-c.json",
+      "kind": "scale",
+      "system": "just-major",
+      "root_note": "C4"
+    },
+    {
+      "id": "just-major-d",
+      "title": "Just major · D4",
+      "path": "data/scales/just-major-d.json",
+      "kind": "scale",
+      "system": "just-major",
+      "root_note": "D4"
+    },
+    {
+      "id": "just-major-e",
+      "title": "Just major · E4",
+      "path": "data/scales/just-major-e.json",
+      "kind": "scale",
+      "system": "just-major",
+      "root_note": "E4"
+    },
+    {
+      "id": "just-major-f",
+      "title": "Just major · F4",
+      "path": "data/scales/just-major-f.json",
+      "kind": "scale",
+      "system": "just-major",
+      "root_note": "F4"
+    },
+    {
+      "id": "just-major-g",
+      "title": "Just major · G4",
+      "path": "data/scales/just-major-g.json",
+      "kind": "scale",
+      "system": "just-major",
+      "root_note": "G4"
+    },
+    {
+      "id": "just-major-a",
+      "title": "Just major · A4",
+      "path": "data/scales/just-major-a.json",
+      "kind": "scale",
+      "system": "just-major",
+      "root_note": "A4"
+    },
+    {
+      "id": "just-minor-c",
+      "title": "Just minor · C4",
+      "path": "data/scales/just-minor-c.json",
+      "kind": "scale",
+      "system": "just-minor",
+      "root_note": "C4"
+    },
+    {
+      "id": "just-minor-d",
+      "title": "Just minor · D4",
+      "path": "data/scales/just-minor-d.json",
+      "kind": "scale",
+      "system": "just-minor",
+      "root_note": "D4"
+    },
+    {
+      "id": "just-minor-e",
+      "title": "Just minor · E4",
+      "path": "data/scales/just-minor-e.json",
+      "kind": "scale",
+      "system": "just-minor",
+      "root_note": "E4"
+    },
+    {
+      "id": "just-minor-f",
+      "title": "Just minor · F4",
+      "path": "data/scales/just-minor-f.json",
+      "kind": "scale",
+      "system": "just-minor",
+      "root_note": "F4"
+    },
+    {
+      "id": "just-minor-g",
+      "title": "Just minor · G4",
+      "path": "data/scales/just-minor-g.json",
+      "kind": "scale",
+      "system": "just-minor",
+      "root_note": "G4"
+    },
+    {
+      "id": "just-minor-a",
+      "title": "Just minor · A4",
+      "path": "data/scales/just-minor-a.json",
+      "kind": "scale",
+      "system": "just-minor",
+      "root_note": "A4"
+    },
+    {
+      "id": "equal-major-c",
+      "title": "Equal-tempered major · C4",
+      "path": "data/scales/equal-major-c.json",
+      "kind": "scale",
+      "system": "equal-major",
+      "root_note": "C4"
+    },
+    {
+      "id": "equal-major-d",
+      "title": "Equal-tempered major · D4",
+      "path": "data/scales/equal-major-d.json",
+      "kind": "scale",
+      "system": "equal-major",
+      "root_note": "D4"
+    },
+    {
+      "id": "equal-major-e",
+      "title": "Equal-tempered major · E4",
+      "path": "data/scales/equal-major-e.json",
+      "kind": "scale",
+      "system": "equal-major",
+      "root_note": "E4"
+    },
+    {
+      "id": "equal-major-f",
+      "title": "Equal-tempered major · F4",
+      "path": "data/scales/equal-major-f.json",
+      "kind": "scale",
+      "system": "equal-major",
+      "root_note": "F4"
+    },
+    {
+      "id": "equal-major-g",
+      "title": "Equal-tempered major · G4",
+      "path": "data/scales/equal-major-g.json",
+      "kind": "scale",
+      "system": "equal-major",
+      "root_note": "G4"
+    },
+    {
+      "id": "equal-major-a",
+      "title": "Equal-tempered major · A4",
+      "path": "data/scales/equal-major-a.json",
+      "kind": "scale",
+      "system": "equal-major",
+      "root_note": "A4"
+    },
+    {
+      "id": "equal-minor-c",
+      "title": "Equal-tempered natural minor · C4",
+      "path": "data/scales/equal-minor-c.json",
+      "kind": "scale",
+      "system": "equal-minor",
+      "root_note": "C4"
+    },
+    {
+      "id": "equal-minor-d",
+      "title": "Equal-tempered natural minor · D4",
+      "path": "data/scales/equal-minor-d.json",
+      "kind": "scale",
+      "system": "equal-minor",
+      "root_note": "D4"
+    },
+    {
+      "id": "equal-minor-e",
+      "title": "Equal-tempered natural minor · E4",
+      "path": "data/scales/equal-minor-e.json",
+      "kind": "scale",
+      "system": "equal-minor",
+      "root_note": "E4"
+    },
+    {
+      "id": "equal-minor-f",
+      "title": "Equal-tempered natural minor · F4",
+      "path": "data/scales/equal-minor-f.json",
+      "kind": "scale",
+      "system": "equal-minor",
+      "root_note": "F4"
+    },
+    {
+      "id": "equal-minor-g",
+      "title": "Equal-tempered natural minor · G4",
+      "path": "data/scales/equal-minor-g.json",
+      "kind": "scale",
+      "system": "equal-minor",
+      "root_note": "G4"
+    },
+    {
+      "id": "equal-minor-a",
+      "title": "Equal-tempered natural minor · A4",
+      "path": "data/scales/equal-minor-a.json",
+      "kind": "scale",
+      "system": "equal-minor",
+      "root_note": "A4"
+    },
+    {
+      "id": "equal-chromatic-c",
+      "title": "Equal-tempered chromatic · C4",
+      "path": "data/scales/equal-chromatic-c.json",
+      "kind": "scale",
+      "system": "equal-chromatic",
+      "root_note": "C4"
+    },
+    {
+      "id": "equal-chromatic-d",
+      "title": "Equal-tempered chromatic · D4",
+      "path": "data/scales/equal-chromatic-d.json",
+      "kind": "scale",
+      "system": "equal-chromatic",
+      "root_note": "D4"
+    },
+    {
+      "id": "equal-chromatic-e",
+      "title": "Equal-tempered chromatic · E4",
+      "path": "data/scales/equal-chromatic-e.json",
+      "kind": "scale",
+      "system": "equal-chromatic",
+      "root_note": "E4"
+    },
+    {
+      "id": "equal-chromatic-f",
+      "title": "Equal-tempered chromatic · F4",
+      "path": "data/scales/equal-chromatic-f.json",
+      "kind": "scale",
+      "system": "equal-chromatic",
+      "root_note": "F4"
+    },
+    {
+      "id": "equal-chromatic-g",
+      "title": "Equal-tempered chromatic · G4",
+      "path": "data/scales/equal-chromatic-g.json",
+      "kind": "scale",
+      "system": "equal-chromatic",
+      "root_note": "G4"
+    },
+    {
+      "id": "equal-chromatic-a",
+      "title": "Equal-tempered chromatic · A4",
+      "path": "data/scales/equal-chromatic-a.json",
+      "kind": "scale",
+      "system": "equal-chromatic",
+      "root_note": "A4"
+    },
+    {
+      "id": "pythagorean-pentatonic-c",
+      "title": "Pythagorean pentatonic · C4",
+      "path": "data/scales/pythagorean-pentatonic-c.json",
+      "kind": "scale",
+      "system": "pythagorean-pentatonic",
+      "root_note": "C4"
+    },
+    {
+      "id": "pythagorean-pentatonic-d",
+      "title": "Pythagorean pentatonic · D4",
+      "path": "data/scales/pythagorean-pentatonic-d.json",
+      "kind": "scale",
+      "system": "pythagorean-pentatonic",
+      "root_note": "D4"
+    },
+    {
+      "id": "pythagorean-pentatonic-e",
+      "title": "Pythagorean pentatonic · E4",
+      "path": "data/scales/pythagorean-pentatonic-e.json",
+      "kind": "scale",
+      "system": "pythagorean-pentatonic",
+      "root_note": "E4"
+    },
+    {
+      "id": "pythagorean-pentatonic-f",
+      "title": "Pythagorean pentatonic · F4",
+      "path": "data/scales/pythagorean-pentatonic-f.json",
+      "kind": "scale",
+      "system": "pythagorean-pentatonic",
+      "root_note": "F4"
+    },
+    {
+      "id": "pythagorean-pentatonic-g",
+      "title": "Pythagorean pentatonic · G4",
+      "path": "data/scales/pythagorean-pentatonic-g.json",
+      "kind": "scale",
+      "system": "pythagorean-pentatonic",
+      "root_note": "G4"
+    },
+    {
+      "id": "pythagorean-pentatonic-a",
+      "title": "Pythagorean pentatonic · A4",
+      "path": "data/scales/pythagorean-pentatonic-a.json",
+      "kind": "scale",
+      "system": "pythagorean-pentatonic",
+      "root_note": "A4"
+    },
+    {
+      "id": "just-pentatonic-c",
+      "title": "Just pentatonic · C4",
+      "path": "data/scales/just-pentatonic-c.json",
+      "kind": "scale",
+      "system": "just-pentatonic",
+      "root_note": "C4"
+    },
+    {
+      "id": "just-pentatonic-d",
+      "title": "Just pentatonic · D4",
+      "path": "data/scales/just-pentatonic-d.json",
+      "kind": "scale",
+      "system": "just-pentatonic",
+      "root_note": "D4"
+    },
+    {
+      "id": "just-pentatonic-e",
+      "title": "Just pentatonic · E4",
+      "path": "data/scales/just-pentatonic-e.json",
+      "kind": "scale",
+      "system": "just-pentatonic",
+      "root_note": "E4"
+    },
+    {
+      "id": "just-pentatonic-f",
+      "title": "Just pentatonic · F4",
+      "path": "data/scales/just-pentatonic-f.json",
+      "kind": "scale",
+      "system": "just-pentatonic",
+      "root_note": "F4"
+    },
+    {
+      "id": "just-pentatonic-g",
+      "title": "Just pentatonic · G4",
+      "path": "data/scales/just-pentatonic-g.json",
+      "kind": "scale",
+      "system": "just-pentatonic",
+      "root_note": "G4"
+    },
+    {
+      "id": "just-pentatonic-a",
+      "title": "Just pentatonic · A4",
+      "path": "data/scales/just-pentatonic-a.json",
+      "kind": "scale",
+      "system": "just-pentatonic",
+      "root_note": "A4"
+    },
+    {
+      "id": "unison-220",
+      "title": "Unison at 220 Hz",
+      "path": "data/experiments/unison-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "unison-440",
+      "title": "Unison at 440 Hz",
+      "path": "data/experiments/unison-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-second-220",
+      "title": "Minor Second at 220 Hz",
+      "path": "data/experiments/minor-second-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-second-440",
+      "title": "Minor Second at 440 Hz",
+      "path": "data/experiments/minor-second-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-second-220",
+      "title": "Major Second at 220 Hz",
+      "path": "data/experiments/major-second-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-second-440",
+      "title": "Major Second at 440 Hz",
+      "path": "data/experiments/major-second-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-third-220",
+      "title": "Minor Third at 220 Hz",
+      "path": "data/experiments/minor-third-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-third-440",
+      "title": "Minor Third at 440 Hz",
+      "path": "data/experiments/minor-third-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-third-220",
+      "title": "Major Third at 220 Hz",
+      "path": "data/experiments/major-third-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-third-440",
+      "title": "Major Third at 440 Hz",
+      "path": "data/experiments/major-third-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "perfect-fourth-220",
+      "title": "Perfect Fourth at 220 Hz",
+      "path": "data/experiments/perfect-fourth-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "perfect-fourth-440",
+      "title": "Perfect Fourth at 440 Hz",
+      "path": "data/experiments/perfect-fourth-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "tritone-220",
+      "title": "Tritone at 220 Hz",
+      "path": "data/experiments/tritone-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "tritone-440",
+      "title": "Tritone at 440 Hz",
+      "path": "data/experiments/tritone-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "perfect-fifth-220",
+      "title": "Perfect Fifth at 220 Hz",
+      "path": "data/experiments/perfect-fifth-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "perfect-fifth-440",
+      "title": "Perfect Fifth at 440 Hz",
+      "path": "data/experiments/perfect-fifth-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-sixth-220",
+      "title": "Minor Sixth at 220 Hz",
+      "path": "data/experiments/minor-sixth-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-sixth-440",
+      "title": "Minor Sixth at 440 Hz",
+      "path": "data/experiments/minor-sixth-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-sixth-220",
+      "title": "Major Sixth at 220 Hz",
+      "path": "data/experiments/major-sixth-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-sixth-440",
+      "title": "Major Sixth at 440 Hz",
+      "path": "data/experiments/major-sixth-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-seventh-220",
+      "title": "Minor Seventh at 220 Hz",
+      "path": "data/experiments/minor-seventh-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "minor-seventh-440",
+      "title": "Minor Seventh at 440 Hz",
+      "path": "data/experiments/minor-seventh-440.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-seventh-220",
+      "title": "Major Seventh at 220 Hz",
+      "path": "data/experiments/major-seventh-220.json",
+      "kind": "experiment"
+    },
+    {
+      "id": "major-seventh-440",
+      "title": "Major Seventh at 440 Hz",
+      "path": "data/experiments/major-seventh-440.json",
+      "kind": "experiment"
+    }
+  ]
+}
