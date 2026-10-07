@@ -1,3 +1,9 @@
-# Source provenance: Ancient Greek Musical Systems
+# Provenance and authorship
 
-The uploaded README describes Aahana Gupta's original project. New starter source, tests, fixtures, and documentation in this package were generated for the requested portfolio bundle. They are not recovered production code, evidence of deployment, or evidence of clinical or educational effectiveness. Supplied ADAS-Cog legacy files are preserved unchanged only in that repository.
+The research question and original computational-music work come from Aahana Gupta's work at the **Wolfram Summer Research Program** and predate this public repository.
+
+The GitHub repository was consolidated in **October 2026** so the mathematical ideas, tuning experiments, and computational approach could be explored publicly.
+
+Some later browser-demo scaffolding, tests, examples, and documentation were created with AI-assisted development tools. Those additions are not presented as the original Wolfram research submission.
+
+The README documents the chronology directly.
