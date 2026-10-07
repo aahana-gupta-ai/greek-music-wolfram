@@ -4,6 +4,12 @@
 
 This project grew from my work at the Wolfram Summer Research Program, where I became interested in a deceptively simple problem: if an ancient score gives us pitch relationships but not every performance choice, what does it mean to “reconstruct” the music?
 
+## Project chronology
+
+- **2025:** the computational-music work developed through the Wolfram Summer Research Program.
+- The original research therefore **predates this repository**.
+- **October 2026:** the project was consolidated into this public GitHub repository so the mathematical and computational ideas could be explored more easily.
+
 ## The question
 
 The Seikilos Epitaph survives with musical notation, but a score is never the whole performance.
@@ -46,5 +52,7 @@ Wolfram source files require a separate Wolfram runtime.
 ## Provenance
 
 The research question and original Wolfram research direction are mine. Some public demo scaffolding and examples in this repository were created later with AI-assisted development tools. See `docs/PROVENANCE.md` and `NOTICE.md` for the distinction.
+
+[See the broader project timeline →](https://github.com/aahana-gupta-ai/aahana-gupta-ai/blob/main/PROJECT_TIMELINE.md)
 
 **Themes:** computational music · mathematics · Wolfram Language · history of science · modelling
