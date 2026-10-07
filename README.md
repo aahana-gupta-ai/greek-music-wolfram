@@ -1,46 +1,50 @@
 # Ancient Greek Musical Systems
 
-Explore tuning ratios through computation and sound.
+**Reconstructing an ancient sound world from ratios, notation, and incomplete evidence.**
 
-**Package status:** runnable portfolio starter. Only the ADAS-Cog repository also contains supplied original web source in `legacy/`. Other project production code was not supplied. Newly generated code must not be represented as the original implementation.
+This project grew from my work at the Wolfram Summer Research Program, where I became interested in a deceptively simple problem: if an ancient score gives us pitch relationships but not every performance choice, what does it mean to “reconstruct” the music?
 
-## What works in this starter
+## The question
 
-- Forty-eight scale configurations and twenty-four interval experiments.
-- Frequency and cents calculations, browser synthesis, and WAV export.
-- Ten new Wolfram source files; these require a separately installed Wolfram runtime.
+The Seikilos Epitaph survives with musical notation, but a score is never the whole performance.
 
-## Run
+I used frequency ratios and computational modelling to explore ancient Greek tuning systems, then compared how different mathematical choices changed what a modern listener would hear.
+
+## What this repository demonstrates
+
+- Scale and interval configurations
+- Frequency-ratio calculations
+- Cents comparisons
+- Browser-based synthesis
+- WAV export
+- Wolfram Language examples
+
+## Why this matters to me
+
+I like problems where mathematics gets close to something human but cannot fully replace interpretation.
+
+A tuning ratio can tell me *how far apart* two notes are. It cannot tell me how fast the singer moved, how loudly they sang, or where they breathed. The missing information is part of the problem.
+
+## Run the browser demonstration
 
 ```bash
 python3 scripts/serve.py
 ```
 
-Open http://127.0.0.1:8000. Use the bundled example content. No dependency install or account is required.
+Then open `http://127.0.0.1:8000`.
 
-## Verify
+Wolfram source files require a separate Wolfram runtime.
 
-```bash
-node --test
-node scripts/verify.mjs
-```
+## Repository structure
 
-## Contents
+- `src/` — browser exploration tools
+- `data/` — scale and interval examples
+- `wolfram/` — Wolfram Language examples
+- `tests/` — verification
+- `docs/` — project and provenance notes
 
-- `src/`: functioning browser application and reusable helpers.
-- `data/`: indexed demonstration resources.
-- `tests/`: behavior and data-integrity tests.
-- `docs/`: architecture, provenance, integration limits, and workflow guides.
-- `schemas/` and `examples/`: documented export formats.
+## Provenance
 
-Every project is packaged with exactly **160 files**, including code, resources, tests, and documentation; file count is not a measure of research quality.
+The research question and original Wolfram research direction are mine. Some public demo scaffolding and examples in this repository were created later with AI-assisted development tools. See `docs/PROVENANCE.md` and `NOTICE.md` for the distinction.
 
-## Topics
-
-`wolfram-language` `computational-music` `data-science` `music-theory`
-
-Set these through GitHub's About settings.
-
-## Attribution and rights
-
-Project identity and background come from the uploaded Aahana Gupta descriptions. Starter code and new example content were generated for this bundle. No new open-source license is assigned. Review `NOTICE.md` and `docs/PROVENANCE.md` before public distribution.
+**Themes:** computational music · mathematics · Wolfram Language · history of science · modelling
